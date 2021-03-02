@@ -1,0 +1,30 @@
+.container {
+    padding: 20px;
+    font-family: 'Google Sans';
+}
+body {
+    background-color: #29cad9;
+    font-family: 'Google Sans';
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+}
+ol {
+    list-style-type: none;
+    font-size: x-large;
+}
+.item-test {
+    background-color: aqua;
+    padding: 30px;
+    border: ridge 5px;
+    margin: 20px;
+}
+.item-test img {
+    padding: 10px;
+}
+.footer {
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+}
